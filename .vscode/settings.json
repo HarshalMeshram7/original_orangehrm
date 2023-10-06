@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a81cdcb9-31c6-40b9-906b-a8edacd3b849/resourceGroups/rg-hrms/providers/Microsoft.Web/sites/orangehrms",
+    "appService.deploySubpath": "."
+}
